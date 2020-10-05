@@ -4,7 +4,7 @@
  
  
  function calcAvgSquare (num1,num2,num3){
-    return((num1+num2+num3)/3)*(num1*num1)
+    return((num1+num2+num3)/3)* (num1*num1)
 }
 
 /*Gets 3 numbers from the user in the main program (not in the function). 
