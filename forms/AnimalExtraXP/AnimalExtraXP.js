@@ -12,7 +12,7 @@ newAnimalEntry = enterAnimal.toLowerCase()
 
 
 myAnimals.push(newAnimalEntry)
- alert(`The last animal is ${myAnimals[myAnimals.length - 1]}`)
+  alert(`The last animal is a/an ${lastAnimal}.`)
 
     
     */
