@@ -34,6 +34,14 @@
             "Calculate",
             "Calculate.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "incomeBracket",
+            "incomeBracket.json"
+          ]
         }
       ],
       "configxml": null,
@@ -55,7 +63,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Calculate",
+      "firstform": "incomeBracket",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
